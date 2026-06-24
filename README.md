@@ -1,46 +1,48 @@
-# 🌳📊 Árboles y Grafos
+# 🌳📊 Árboles y Grafos en Java
 
-Este repositorio contiene implementaciones y prácticas relacionadas con **árboles y grafos**, estructuras fundamentales en ciencias de la computación y algoritmos.
+Este repositorio contiene implementaciones de **árboles y grafos utilizando Java**, como parte del estudio de estructuras de datos fundamentales en programación.
 
 ---
 
 ## 📌 Descripción
 
-El proyecto está enfocado en el estudio y la implementación de estructuras de datos no lineales como:
+El proyecto incluye la implementación y práctica de estructuras de datos no lineales:
 
 - 🌳 Árboles (Trees)
 - 📊 Grafos (Graphs)
 
-Incluye representaciones, recorridos y posibles algoritmos básicos asociados a estas estructuras.
+Se trabajan conceptos básicos como nodos, conexiones, recorridos y representación de estructuras.
 
 ---
 
 ## 🎯 Objetivo
 
-Fortalecer el aprendizaje de:
+Reforzar el aprendizaje de:
 
-- Representación de grafos (listas y matrices de adyacencia)
-- Conceptos de nodos, aristas y vértices
-- Recorridos en estructuras de datos
-- Aplicación de teoría de grafos en programación
+- Programación orientada a objetos en Java ☕
+- Estructuras de datos no lineales
+- Representación de grafos y árboles
+- Lógica de algoritmos básicos
+- Recorridos y manipulación de nodos
 
 ---
 
-## 🧠 Temas incluidos
+## 🧠 Contenidos del proyecto
 
-- Tipos de grafos (dirigidos y no dirigidos)
+- Implementación de nodos
+- Árboles binarios (si aplica)
 - Representación de grafos
-- Conceptos básicos de árboles
+- Listas de adyacencia / matrices (según implementación)
 - Relaciones entre nodos
-- Introducción a algoritmos sobre grafos
+- Algoritmos básicos sobre estructuras
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-- Python 🐍
-- Estructuras de datos básicas
-- Lógica de programación
+- ☕ Java
+- Programación Orientada a Objetos (POO)
+- Estructuras de datos
 
 ---
 
@@ -49,7 +51,10 @@ Fortalecer el aprendizaje de:
 ```bash
 Abroles_y_Grafos/
 │
-├── arboles.py
-├── grafos.py
-├── main.py
+├── src/
+│   ├── Main.java
+│   ├── Arbol.java
+│   ├── Nodo.java
+│   ├── Grafo.java
+│
 └── README.md
